@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 MY NAME IS TUSHARChanges in feature-branch
 =======
 MY NAME IS TUSHAR Changes in feature-branch
 New Change
+>>>>>>> Stashed changes
+=======
+MY NAME IS TUSHAR Changes. in feature-branch
 >>>>>>> Stashed changes
